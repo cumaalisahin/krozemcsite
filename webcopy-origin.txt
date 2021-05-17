@@ -1,0 +1,220 @@
+Uri: https://ucuzpre.com/
+File Name: H:\website copy\ucuzpre.com\index.htm
+Content Type: text/html
+
+Uri: https://ucuzpre.com/uploads/KDoukXO-BYD.jpg
+File Name: H:\website copy\ucuzpre.com\uploads\KDoukXO-BYD.jpg
+Content Type: image/jpeg
+
+Uri: https://ucuzpre.com/uploads/pix-favicon.ico
+File Name: H:\website copy\ucuzpre.com\uploads\pix-favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ucuzpre.com/css/bootstrap.css
+File Name: H:\website copy\ucuzpre.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://ucuzpre.com/css/font-awesome.min.css
+File Name: H:\website copy\ucuzpre.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ucuzpre.com/css/pix_style.css
+File Name: H:\website copy\ucuzpre.com\css\pix_style.css
+Content Type: text/css
+
+Uri: https://ucuzpre.com/css/main.css
+File Name: H:\website copy\ucuzpre.com\css\main.css
+Content Type: text/css
+
+Uri: https://ucuzpre.com/css/font-style.css
+File Name: H:\website copy\ucuzpre.com\css\font-style.css
+Content Type: text/css
+
+Uri: https://ucuzpre.com/css/animations.min.css
+File Name: H:\website copy\ucuzpre.com\css\animations.min.css
+Content Type: text/css
+
+Uri: https://github.com/summernote/summernote
+File Name: H:\website copy\ucuzpre.com\summernote\summernote.html
+Content Type: text/html
+
+Uri: https://github.com/summernote/summernote/issues
+File Name: H:\website copy\ucuzpre.com\summernote\summernote\issues.html
+Content Type: text/html
+
+Uri: https://ucuzpre.com/odeme.php?id=18
+File Name: H:\website copy\ucuzpre.com\odeme.php.html
+Content Type: text/html
+
+Uri: https://ucuzpre.com/odeme.php?id=19
+File Name: H:\website copy\ucuzpre.com\odeme.php-1.html
+Content Type: text/html
+
+Uri: https://ucuzpre.com/odeme.php?id=32
+File Name: H:\website copy\ucuzpre.com\odeme.php-2.html
+Content Type: text/html
+
+Uri: https://ucuzpre.com/odeme.php?id=24
+File Name: H:\website copy\ucuzpre.com\odeme.php-3.html
+Content Type: text/html
+
+Uri: https://ucuzpre.com/uploads/logo-hgs.png
+File Name: H:\website copy\ucuzpre.com\uploads\logo-hgs.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/image-cta-pfu.png
+File Name: H:\website copy\ucuzpre.com\uploads\image-cta-pfu.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/images/startup/client-2.jpg
+File Name: H:\website copy\ucuzpre.com\images\startup\client-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ucuzpre.com/images/startup/client-1.jpg
+File Name: H:\website copy\ucuzpre.com\images\startup\client-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ucuzpre.com/uploads/stea-Wi3.png
+File Name: H:\website copy\ucuzpre.com\uploads\stea-Wi3.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/2-QsP.png
+File Name: H:\website copy\ucuzpre.com\uploads\2-QsP.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/steam3-VdT.png
+File Name: H:\website copy\ucuzpre.com\uploads\steam3-VdT.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/steam1-sDi.png
+File Name: H:\website copy\ucuzpre.com\uploads\steam1-sDi.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/sims-5X4.png
+File Name: H:\website copy\ucuzpre.com\uploads\sims-5X4.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/bf-FpD.png
+File Name: H:\website copy\ucuzpre.com\uploads\bf-FpD.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/fifa-XS3.png
+File Name: H:\website copy\ucuzpre.com\uploads\fifa-XS3.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/gta-CIN.png
+File Name: H:\website copy\ucuzpre.com\uploads\gta-CIN.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/37Md2M-Ors.png
+File Name: H:\website copy\ucuzpre.com\uploads\37Md2M-Ors.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/uploads/footer-rM5.png
+File Name: H:\website copy\ucuzpre.com\uploads\footer-rM5.png
+Content Type: image/png
+
+Uri: https://ucuzpre.com/js/jquery-1.11.2.js
+File Name: H:\website copy\ucuzpre.com\js\jquery-1.11.2.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/jquery-ui.js
+File Name: H:\website copy\ucuzpre.com\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/bootstrap.js
+File Name: H:\website copy\ucuzpre.com\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/velocity.min.js
+File Name: H:\website copy\ucuzpre.com\js\velocity.min.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/velocity.ui.min.js
+File Name: H:\website copy\ucuzpre.com\js\velocity.ui.min.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/appear.min.js
+File Name: H:\website copy\ucuzpre.com\js\appear.min.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/animations.min.js
+File Name: H:\website copy\ucuzpre.com\js\animations.min.js
+Content Type: application/javascript
+
+Uri: https://ucuzpre.com/js/custom.js
+File Name: H:\website copy\ucuzpre.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans
+File Name: H:\website copy\ucuzpre.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700
+File Name: H:\website copy\ucuzpre.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700
+File Name: H:\website copy\ucuzpre.com\css-2.css
+Content Type: text/css
+
+Uri: https://ucuzpre.com/css/fonts/MEGAPACK.eot?lo76bi
+File Name: H:\website copy\ucuzpre.com\css\fonts\MEGAPACK.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ucuzpre.com/css/fonts/MEGAPACK.ttf?lo76bi
+File Name: H:\website copy\ucuzpre.com\css\fonts\MEGAPACK.ttf
+Content Type: font/ttf
+
+Uri: https://ucuzpre.com/css/fonts/MEGAPACK.woff?lo76bi
+File Name: H:\website copy\ucuzpre.com\css\fonts\MEGAPACK.woff
+Content Type: font/woff
+
+Uri: https://ucuzpre.com/css/fonts/MEGAPACK.svg?lo76bi
+File Name: H:\website copy\ucuzpre.com\css\fonts\MEGAPACK.svg
+Content Type: image/svg+xml
+
+Uri: https://summernote.org/
+File Name: H:\website copy\ucuzpre.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=83740
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php.html
+Content Type: text/html
+
+Uri: https://ucuzpre.com/index.php
+File Name: H:\website copy\ucuzpre.com\index.php.html
+Content Type: text/html
+
+Uri: https://gpay.com.tr/api/payment.js
+File Name: H:\website copy\ucuzpre.com\api\payment.js
+Content Type: application/javascript
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=87030
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-1.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=87934
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-2.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=325534
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-3.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=282637
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-4.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=279192
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-5.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=281528
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-6.html
+Content Type: text/html
+
+Uri: https://www.shopier.com/ShowProductNew/products.php?id=356825
+File Name: H:\website copy\ucuzpre.com\ShowProductNew\products.php-7.html
+Content Type: text/html
+
